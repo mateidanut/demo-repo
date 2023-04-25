@@ -1,2 +1,2 @@
 def function():
-    return "new page"
+    return "finished funcitonality"
